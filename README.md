@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/satopirka/github-readme-stats)
+[![satopirka's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/satopirka/github-readme-stats)
 
 
 <!--
